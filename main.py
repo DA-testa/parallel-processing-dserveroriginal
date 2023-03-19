@@ -42,7 +42,7 @@ def main():
     
     # TODO: print out the results, each pair in it's own line
     for pair in result:
-        print(pair[0]," ",pair[1])
+        print(pair[0],pair[1])
 
 
 
